@@ -2,33 +2,73 @@
 
 ### 💫 About Me
 
-Développeuse Full-Stack passionnée par l'Intelligence Artificielle et la Cybersécurité, actuellement en **Mastère Professionnel en Audit et Sécurité Informatique** à la FSEGS.
+Développeuse **Full-Stack** passionnée par l'**Intelligence Artificielle** et la **Cybersécurité**, actuellement en **Mastère Professionnel en Audit et Sécurité Informatique** à la FSEGS (Faculté des Sciences Économiques et de Gestion de Sfax).
 
-Titulaire d'une **Licence en Informatique de Gestion (mention Bien)**, j'ai réalisé de nombreux projets couvrant le développement web, mobile, desktop, l'IA et la cybersécurité.
-
-Mes projets de sécurité (plateforme d'orchestration de pentest, scanner SMB intelligent, AWS Security Group Auditor, C2 Server, lab SNMP, lab intégrateur d'infrastructure) démontrent une maîtrise avancée des concepts de sécurité offensive et défensive, de la supervision réseau et de l'automatisation.
+Titulaire d'une **Licence en Informatique de Gestion (mention Bien)**, j'ai réalisé de nombreux projets couvrant le développement web, mobile et desktop, l'IA, ainsi que la cybersécurité offensive et défensive.
 
 🌐 **Portfolio :** [emna-portfolio.netlify.app](https://emna-portfolio.netlify.app)
 
 ---
 
-## 🌐 Socials
+## 🌐 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daoud-emna/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daoud.emna.it@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://emna-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?logo=About.me&logoColor=white)](https://emna-portfolio.netlify.app)
+
+---
+
+## 🎓 Formation
+
+- **Mastère Professionnel en Audit et Sécurité Informatique** — FSEGS (2025 – en cours)
+- **Licence en Informatique de Gestion** — Institut Supérieur d'Administration des Affaires de Sfax (2022 – 2025) | **Mention Bien**
+- **Baccalauréat Économie & Gestion** — Lycée Mahmoud Megdiche, Sfax (2017 – 2022) | **Mention Assez Bien**
+
+---
+
+## 🏅 Certifications
+
+- ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white) **Introduction to Responsible AI** — Google
+- ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white) **Introduction to Image Generation** — Google
+- ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) **Introduction à la Cybersécurité** — Cisco Networking Academy
+- ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) **Cybersécurité appliquée à la finance** — Udemy
 
 ---
 
 ## 🚀 Projets Phares
 
+### 🔐 Cybersécurité (Mastère)
+
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
 | **Scanner SMB Intelligent** | Outil de pentesting qui scanne les partages SMB pour détecter mots de passe et clés API exposés | Python, SMB, PyQt5, Regex |
-| **Plateforme d'orchestration de pentest** | Orchestration de Nmap, Nikto, SQLmap, Metasploit avec rapports CVSS | Python, Kali Linux, API REST |
+| **Plateforme d'orchestration de pentest** | Orchestration de Nmap, Nikto, SQLmap et Metasploit avec rapports CVSS | Python, Kali Linux, API REST |
 | **AWS Security Group Auditor** | Audit automatisé des Security Groups AWS avec détection des règles trop permissives | Python, Boto3, AWS |
 | **C2 Server** | Serveur Command & Control avec interface web et gestion multi-agents | Python, Flask, SQLite |
 | **Lab SNMP** | Supervision réseau avec InfluxDB + Grafana | SNMP, InfluxDB, Grafana, Bash |
+| **Lab Intégrateur d'Infrastructure** | Infrastructure complète (DNS, DHCP, LDAP, Kerberos, Samba, RAID 5, NFS, Nginx, Apache, Squid, Keycloak, OpenVPN, Fail2ban, Nagios, Ansible) | Ubuntu, Kali, Windows 7, Metasploitable |
+| **Audit Technique** | Audit de sécurité complet sur un lab personnel (reconnaissance, scan, exploitation, rapport) | Nmap, Metasploit, Lynis, enum4linux |
+
+### 💻 Développement Web & Mobile (Licence)
+
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| **AgriCycle** | Application web full-stack responsive avec authentification sécurisée (JWT, bcrypt), géolocalisation et export Excel/PDF | React.js, Django, MySQL |
+| **Assistant Diagnostic Cancer du Sein** | Application IA pour l'analyse et la prédiction de tumeurs mammaires avec visualisation interactive | Python, Streamlit, Machine Learning |
+| **Gestion Budgétaire (STEG)** | Plateforme de gestion budgétaire avec recommandations via IA, tableaux de bord et prévisions analytiques | Symfony, IA, Tableaux de bord |
+| **Gestion des élèves d'une école primaire** | Application web pour l'inscription des élèves, le suivi des absences et la génération de rapports | PHP, MySQL |
+| **Site e-commerce** | Site de vente en ligne avec catalogue de produits et paiements sécurisés | PHP, MySQL, HTML/CSS |
+| **Application Desktop de Facturation** | Système de gestion des factures pour les PME | Java |
+| **Gestion de réparation de matériel informatique** | Application desktop pour suivre les demandes de réparation et gérer les pièces détachées | C# |
+| **Application Santé (Flutter)** | Application mobile pour le calcul de l'IMC et le suivi du poids avec graphique interactif | Flutter, Dart, Firebase |
+
+### 🌐 Réseaux (Labs CCNA)
+
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| **Lab CCNA1** | Lab complet avec routeur et VLANs (Router-on-a-Stick, DHCP, OSPF) | Cisco, Packet Tracer |
+| **Lab CCNA2** | Réseaux d'entreprise sur 2 sites (VLANs, OSPF, ACLs, SSH, NAT, Port-Security) | Cisco, Packet Tracer |
+| **Mini Opérateur Télécom** | Simulation de 2 opérateurs télécom interconnectés par BGP avec cœur redondant OSPF | Cisco, BGP, OSPF |
 
 ---
 
@@ -85,12 +125,14 @@ Mes projets de sécurité (plateforme d'orchestration de pentest, scanner SMB in
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=emna401&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=emna401&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emna401&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=emna401&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![Streak](https://streak-stats.demolab.com/?user=emna401&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emna401&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Visitors](https://komarev.com/ghpvc/?username=emna401&icon=0&color=0)
 
 ---
-
-[![](https://komarev.com/ghpvc/?username=emna401&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ⭐️ From [emna401](https://github.com/emna401)
